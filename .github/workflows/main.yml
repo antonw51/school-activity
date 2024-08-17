@@ -1,0 +1,36 @@
+name: Convert Markdown to DOCX
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.md'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Convert Markdown to DOCX
+        run: |
+          for file in $(find . -name '*.md'); do
+            docx_file="${file%.md}.docx"
+            pandoc "$file" -o "$docx_file"
+          done
+
+      - name: Commit and Push DOCX Files
+        run: |
+          git config --global user.email "aligator.h0spital.e@gmail.com"
+          git config --global user.name "GitHub Actions"
+          git add **/*.docx
+          git commit -m "Auto-converted markdown files to docx"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
