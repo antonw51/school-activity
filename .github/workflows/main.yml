@@ -25,18 +25,7 @@ jobs:
             docx_file="${file%.md}.docx"
             pandoc "$file" -o "$docx_file"
           done
-
-      - name: Remove orphaned DOCX files
-        run: |
-          # Find all .docx files and check if the corresponding .md file exists
-          for docx_file in $(find . -name '*.docx'); do
-            md_file="${docx_file%.docx}.md"
-            if [ ! -f "$md_file" ]; then
-              echo "Removing orphaned DOCX: $docx_file"
-              rm "$docx_file"
-            fi
-          done
-
+      
       - name: Commit and Push Changes
         run: |
           git config --global user.email "aligator.h0spital.e@gmail.com"
