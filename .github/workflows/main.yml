@@ -22,6 +22,7 @@ jobs:
         run: |
           # Convert all .md files to .docx
           for file in **/*.md; do
+            echo "$file"
             docx_file="${file%.md}.docx"
             pandoc "$file" -o "$docx_file"
           done
