@@ -23,7 +23,7 @@ jobs:
       - name: Convert Markdown to DOCX
         run: |
           # Convert all .md files to .docx
-          for file in $(find -n '*.md'); do
+          for file in $(find -name '*.md'); do
             echo "$file"
             docx_file="${file%.md}.docx"
             pandoc "$file" -o "$docx_file"
