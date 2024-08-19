@@ -22,12 +22,13 @@ jobs:
 
       - name: Convert Markdown to DOCX
         run: |
+          find . -name '*.md' -exec sh -c 'pandoc $0 -f markdown -t docx -o $0.docx' {} \;
           # Convert all .md files to .docx
-          for file in $(find -name '*.md'); do
-            echo "$file"
-            docx_file="${file%.md}.docx"
-            pandoc "$file" -o "$docx_file"
-          done
+          # for file in $(find -name '*.md'); do
+          #   echo "$file"
+          #   docx_file="${file%.md}.docx"
+          #   pandoc "$file" -o "$docx_file"
+          # done
       
       - name: Commit and Push Changes
         run: |
