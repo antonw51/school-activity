@@ -28,3 +28,4 @@ Om du är intresserad är detta en lista över all anledningar jag vill hellre a
 För mig är detta en mycket mer snabb och enkel process, som jag uppfattar att inte riktigt påverka mycket av hur du upplever mitt arbete.
 
 Åter, om du har problem med att jag använder detta flöde för arbete i ditt ämne är det bara och säga till.
+
