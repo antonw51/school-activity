@@ -7,7 +7,7 @@
 >
 > Most of this repository will be in Swedish (excluding English assignments, of course).
 
-## För lärare på Folkasboskolan:
+## För lärare på Folkasboskolan
 
 > [!IMPORTANT]
 > Om du som lärare har problem, inte gillar att jag länkar till filer här, eller ser ner på att jag skriver mina dokument utanför Microsoft Office, så är det bara att meddela om det, så kan jag antingen, skicka en fil jag tagit här ifrån och kopplat till mitt Microsoft Office konto, frånstå från att använda dessa verktyg på en uppgift, eller frånstå helt över från att använda dessa verktyg på **ditt ämne**.
