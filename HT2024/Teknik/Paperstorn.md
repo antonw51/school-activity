@@ -2,6 +2,8 @@
 
 ## Logbok
 
+[24/8/20]
+
 Jag arbetar i grupp med Alexander, och som instruerade ska vi bygga paperstorn.
 
 Efter att ha kollat på några torn såg vi ett repeterande mönster i de alla. **Trianglar**. Därför började vi med att forma triangle-formade torn som vi kan sätta ihop.
