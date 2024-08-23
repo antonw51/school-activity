@@ -18,4 +18,4 @@ Bygget består av gula rektangel åvan på två av kvadrat klossarna, en orange 
 
 Åvan på den gula kvadraten placerades en endaste gul kvadrat i 'mitten' (2,0) till (3,1).
 
-![Foto](./IMG_1106.jpeg)
+![Foto](IMG_1106.jpeg)
