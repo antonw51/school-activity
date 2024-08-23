@@ -14,7 +14,7 @@ _En position består av två komponenter: X och Y (x,y) där varje nummer repres
 
 ### Beskrivning
 
-Bygget består av gula rektangel åvan på två av kvadrat klossarna, en orange vid position (0,0) till (1,1) och en gul vid position (5,0) till (6,1).
+Bygget består av gula rektangel åvan på två av kvadrat klossarna, en orange vid position (0,0) till (1,1) (kan också kallas för längst åt vänster på figuren) och en gul vid position (5,0) till (6,1) (kan också kallas för längst åt höger).
 
 Åvan på den gula kvadraten placerades en endaste gul kvadrat i 'mitten' (2,0) till (3,1).
 
