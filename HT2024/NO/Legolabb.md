@@ -1,21 +1,18 @@
 # Metodträning – Legolabb
 
-## Begrepp
+Med 4 klossar: (2 gula kvadrater [2x2], 1 orange kvadrat [2x2] och en bredare gul rektangel [6x2])
 
-- "kvadrat", en fyrkantig kloss 4x4
+## Instruktioner
 
-## Bygge
+1. Börja med att ta den längsta rektangeln och placera den längst underst.
+2. Ta en av dem gula klossarna och placera den i mitten av rektangeln.
+3. Sedan ta de två klossarna kvar och placera dem under rektangeln längst åt kanterna, bort ifrån mitten; som två ben för figuren och stå på.
+4. Klar.
 
-_En position består av två komponenter: X och Y (x,y) där varje nummer representerar en 1x1's storlek ifrån hörnet längst ner åt vänster (0,0)_.
+## Misstag
 
-### Material
+På steg 3 beskrev jag icke om "längst ut" menade att klossarna skulle stycka ut ifrån under rektangeln.
 
-4 st. klossar: 3 kvadrater (2 gula och 1 orange) och en gul rektangel 6x2
-
-### Beskrivning
-
-Bygget består av gula rektangel åvan på två av kvadrat klossarna, en orange vid position (0,0) till (1,1) (kan också kallas för längst åt vänster på figuren) och en gul vid position (5,0) till (6,1) (kan också kallas för längst åt höger).
-
-Åvan på den gula kvadraten placerades en endaste gul kvadrat i 'mitten' (2,0) till (3,1).
+Detta ledde till att byggaren Alexander, missuppfattade instruktionerna och byggde delvist fel.
 
 ![Foto](IMG_1106.jpeg)
