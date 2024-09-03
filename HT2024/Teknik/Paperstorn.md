@@ -18,3 +18,8 @@ Papper vecklar enkelt, men våra triangel torn stoppar detta problem genom att v
 
 Idag har vi gjort klart tornet. Vi tacklade också problemet av stabilitet genom att sätta på en bas på ostabila sidan av tornet. Nu verkar vårt torn kunna hålla väldigt mycket vikt och är ändå rätt högt.
 
+### [03/07/24]
+
+Denna dag arbeta vi på att experimentera med vårt torn, vi försökte göra det längre med ben, och starkare med tejp, tyvärr gick både experimenten rätt dåligt.
+
+Till slut förstördes vårt torns stabilitet p.g.a. vi hade för mycket vikt på.
