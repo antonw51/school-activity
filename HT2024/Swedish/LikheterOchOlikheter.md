@@ -26,3 +26,4 @@ Mellan Bokmål och Nynorska är också ordet 'tett ved'/'tett med' likadana, beg
 Om man in-tänker sig uttal, kan man också se några möjliga likheter mellan 'öga' (OAga) och 'auga'
 
 ### Skillnader
+
