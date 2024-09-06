@@ -27,4 +27,5 @@ Om man in-tänker sig uttal, kan man också se några möjliga likheter mellan '
 
 ### Skillnader
 
-AAa
+Det finns ganska många skilnader mellan de tre språken. Nynorksa skilljer sig mest ifrån sina jämförsspråk. 
+
