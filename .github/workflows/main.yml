@@ -20,7 +20,7 @@ jobs:
         run: |
           find . -name "*.md" -type f | while read md_file; do
             docx_file="${md_file%.md}.docx"
-            pandoc "$md_file" -o "$docx_file"
+            pandoc "$md_file" -o "$docx_file"e -f gfm+subscript+superscript -t docx
           done
 
       - name: Commit and Push converted files
