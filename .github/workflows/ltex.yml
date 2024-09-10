@@ -16,7 +16,7 @@ jobs:
 
       - name: Download Ltex
         run: |
-          curl "https://github.com/valentjn/ltex-ls/releases/download/16.0.0/ltex-ls-16.0.0-linux-x64.tar.gz" >> ltex.tar.gz
+          wget "https://github.com/valentjn/ltex-ls/releases/download/16.0.0/ltex-ls-16.0.0-linux-x64.tar.gz"
       
       - name: Install Ltex
         run: |
