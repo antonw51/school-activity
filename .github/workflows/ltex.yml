@@ -14,14 +14,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Find changes
+        uses: knu/changed-files@v1
+        with:
+          paths: |
+            **/*.md
+
+      - name: Cancel on empty
+        if: steps.changed-files.outputs.matched_files == ''
+        run: exit 1
+
       - name: Download Ltex
+        if: steps.changed-files.outputs.matched_files != ''
         run: |
           wget "https://github.com/valentjn/ltex-ls/releases/download/16.0.0/ltex-ls-16.0.0-linux-x64.tar.gz"
       
       - name: Install Ltex
+        if: steps.changed-files.outputs.matched_files != ''
         run: |
           tar -xf ltex-ls-16.0.0-linux-x64.tar.gz
       
       - name: Check files
-        run: $(pwd)/ltex-ls-16.0.0/bin/ltex-cli --verbose **/*.md
+        if: steps.changed-files.outputs.matched_files != ''
+        run: $(pwd)/ltex-ls-16.0.0/bin/ltex-cli --verbose ${{ steps.changed-files.outputs.changed_files }}
           
