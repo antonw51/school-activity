@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '**/*.md'
+  workflow_dispatch
 
 jobs:
   convert:
@@ -16,12 +17,8 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Find and Convert .md to .docx
-        run: |
-          find . -name "*.md" -type f | while read md_file; do
-            docx_file="${md_file%.md}.docx"
-            pandoc "$md_file" -o "$docx_file"e -f gfm+subscript+superscript -t docx
-          done
+      - name: Convert all to md
+        run: ./script.sh
 
       - name: Commit and Push converted files
         run: |
