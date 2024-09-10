@@ -13,12 +13,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
 
       - name: Find changes
         id: modified
         run: |
-          git fetch origin main:main
-          GITHUB_OUTPUT="files=$(git diff --name-only --diff-filter=d main~ main)"
+          GITHUB_OUTPUT="files=$(git diff --name-only -r HEAD^1 HEAD)"
 
       - name: List changes
         run: |
