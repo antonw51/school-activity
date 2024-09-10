@@ -32,7 +32,7 @@ Font's and others are a baffling conundrum. Tables:
 
 We've pondered the art, and _imagery_ of the world around us — Only trying to capture its grasp within what we call _art_:
 
-![Figure 1: A great example of my friend's Nvidia experience](image.png)
+![Fig 1. A great example of my friend's Nvidia experience](image.png)
 
 Footers, sources, and links are also great ways of knowing all about the world around us.[^1]
 
