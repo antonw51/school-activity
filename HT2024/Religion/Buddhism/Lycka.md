@@ -10,8 +10,10 @@ Lycka är en belöning för oss människor, vi finner den från att vara med om 
 
 > &OpenCurlyDoubleQuote;_Man kan inte köpa sig till glädje._&CloseCurlyDoubleQuote;
 >
-> **– Okänd original källa**
+> **– Howard Hughes**[^1]
 
 För hoppningsvis är det ovan ett vanlig nog citat för dig och känna till det. Oavsett, samma koncept fungerar här. _Man kan inte köpa, öva, eller på annat sätt fuska sig till glädje, nöja, eller på annat sätt permanent lycka_.
 
 Kanske på kort-tid fungerar det, men en del av lycka är att det räcker inte i oändlig tid — en del av lycka är att vi som personer måste hitta nya sätt och nya händelser för att nå lycka åter — _det är vad jag tycker, iallafall._
+
+[^1]: [Citat källa](https://www.socratic-method.com/quote-meanings-interpretations/howard-hughes-money-cant-buy-happiness)
