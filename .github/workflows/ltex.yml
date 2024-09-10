@@ -1,7 +1,6 @@
 name: Check grammer
 
 on:
-  workflow_dispatch:
   push:
     paths:
       - '**/*.md'
