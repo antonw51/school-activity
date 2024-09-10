@@ -1,0 +1,27 @@
+name: Check grammer
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**/*.md'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Ltex
+        run: | 
+          curl "https://github.com/valentjn/ltex-ls/releases/download/16.0.0/ltex-ls-16.0.0-linux-x64.tar.gz" >> ltex.tar.gz
+          tar -xf ltex-ls-16.0.0-linux-x64.tar.gz
+          ltex=$(pwd)/ltex-ls-16.0.0/bin/ltex-cli
+      
+      - name: Check files
+        run: |
+          shopt -s globstar
+          $ltex **/*.md --verbose
+          exit $?
