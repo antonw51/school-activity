@@ -36,7 +36,7 @@ do
         fi
 
         base=${file%%.*}
-        pandoc -f gfm+smart+fancy_lists+subscript+superscript -t docx --reference-doc=~reference.docx -o "${file%.md}.docx" "$file"
+        pandoc -f gfm+smart+subscript+superscript -t docx --reference-doc=~reference.docx -o "${file%.md}.docx" "$file"
 
         rm ./~reference.docx
     done
