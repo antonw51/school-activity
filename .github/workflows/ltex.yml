@@ -21,14 +21,7 @@ jobs:
       - name: Install Ltex
         run: |
           tar -xf ltex-ls-16.0.0-linux-x64.tar.gz
-          ltex=$(pwd)/ltex-ls-16.0.0/bin/ltex-cli
-
-      - name: Prepare enviorment
-        run: shopt -s globstar
-
-      - name: Debug
-        run: echo $ltex
       
       - name: Check files
-        run: sudo $ltex --verbose **/*.md
+        run: $(pwd)/ltex-ls-16.0.0/bin/ltex-cli --verbose **/*.md
           
