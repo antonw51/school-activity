@@ -14,18 +14,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Find changes
         id: modified
         run: |
-          GITHUB_OUTPUT="files=$(git diff --name-only -r HEAD^1 HEAD)"
+          GITHUB_OUTPUT="files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }})"
 
       - name: List changes
         run: |
           echo ${{ steps.modified.outputs.files }}
 
-      - name: Cancel on empty
+      - name: Compare to empty
         if: steps.modified.outputs.files == ''
         run: exit 1
 
