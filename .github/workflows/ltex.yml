@@ -22,9 +22,10 @@ jobs:
         run: |
           tar -xf ltex-ls-16.0.0-linux-x64.tar.gz
           ltex=$(pwd)/ltex-ls-16.0.0/bin/ltex-cli
+
+      - name: Prepare enviorment
+        run: shopt -s globstar
       
       - name: Check files
-        run: |
-          shopt -s globstar
-          $ltex **/*.md --verbose
-          exit $?
+        run: $ltex **/*.md --verbose
+          
