@@ -25,7 +25,10 @@ jobs:
 
       - name: Prepare enviorment
         run: shopt -s globstar
+
+      - name: Debug
+        run: echo $ltex
       
       - name: Check files
-        run: $ltex **/*.md --verbose
+        run: $ltex --verbose **/*.md
           
