@@ -18,7 +18,47 @@ jobs:
         run: sudo apt-get install -y pandoc
 
       - name: Convert all to md
-        run: ./script.sh
+        run: |
+          shopt -s globstar
+          orig=$PWD
+
+          for dir in **/
+          do
+            echo "- $dir"
+            cd $dir
+            cp $orig/reference.docx ./~normal.docx
+            cp $orig/reference-mla.docx ./~mla.docx
+            cp $orig/reference-modern.docx ./~modern.docx
+            for file in *.md
+            do
+              if [ "$file" == "*.md" ]; then
+                break
+              fi
+              suffix=${file#*.}
+              type=${suffix%.md}
+              echo "   $file - $type"
+
+              if [ "$type" == "mla" ]; then
+                cp ./~mla.docx ./~reference.docx
+              elif [ "$type" == "modern" ]; then
+                cp ./~modern.docx ./~reference.docx
+              else
+                cp ./~normal.docx ./~reference.docx
+              fi
+
+              base=${file%%.*}
+              pandoc -f gfm+smart+subscript+superscript -t docx --reference-doc=~reference.docx -o "${file%.md}.docx" "$file"
+
+              rm ./~reference.docx
+            done
+
+            rm ./~normal.docx
+            rm ./~mla.docx
+            rm ./~modern.docx
+
+            cd $orig
+          done
+
 
       - name: Commit and Push converted files
         run: |
