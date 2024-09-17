@@ -47,3 +47,5 @@ do
 
     cd $orig
 done
+
+cd $orig
