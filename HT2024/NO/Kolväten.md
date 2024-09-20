@@ -20,4 +20,7 @@
 2. Alkaner kan användas till myckete, vi använder alkaner till exempelvist bränslen (till bil och tändar), vägar, och mer.
 3. Gasformiga alkaner har 1-4 kolatomer, vätskor har 4-15, och alkaner med mer än 15 kolatomer är fasta.
 4. Bindningar
-5. 
+5. ![Första fyra kolväten: Metan, Etan, Propan och Butan](./firstfor.jpeg)
+6. $2(14)+2=28+2=30$
+7. Biogas är miljövänligast p.g.a., naturgas är en typ fosil bränsle, dessa tar slut och tar från vår planet.
+8. 
