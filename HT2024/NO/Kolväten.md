@@ -23,4 +23,6 @@
 5. ![Första fyra kolväten: Metan, Etan, Propan och Butan](./firstfor.jpeg)
 6. $2(14)+2=28+2=30$
 7. Biogas är miljövänligast p.g.a., naturgas är en typ fosil bränsle, dessa tar slut och tar från vår planet.
-8. 
+8. För att de grenande atomerna kan inte lätt trycka sig mot resten, därför blir dem till gasfor lättare än de andra atomerna, d.v.s., lägre kokpunkt
+9. 3
+10. Bensen ($C_6H_6$) ![Strukturform](./bensen.jpeg).
