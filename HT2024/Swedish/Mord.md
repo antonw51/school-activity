@@ -1,8 +1,4 @@
-<!-- @format -->
-
 # Deckare — "Klart och bokat"
-
-<!-- With a strict 2 A4 page limit, I'm unsure about wasting too much time with an introduction, but it also makes for a compelling story-->
 
 En vanlig torsdag dag var det för Adam, på väg till _brottsplatsen_, en upplevelse han varit med om många gånger på jobbet. Fordon körde förbi på vägarna, regn föll från himlen med små droppar som täckte gatorna. Adam, med sina händer i fickorna, funderade på hur många spår i fall som möjligen försvunnit under regnets gång.
 
@@ -32,9 +28,9 @@ Redan då märktes det hur lugn receptionisten faktiskt var, något oförväntat
 Adam höll penna och block i sina händer, men han skrev inte ner något än; kännes inte viktigt nog.
 
 \- Har du observerat något ovanligt beteende dem senaste få dagarna? \
-\- Hmm... Jag är inte helt säker, men jag har haft en känsla som om någon har använt hotellets huvudnyckel. \
+\- Hmm... Jag är inte helt säker, men jag har haft en känsla som om någon har använt hotellets huvudnyckel när de inte skulle. \
 \- Huvudnyckel? Frågade Adam nästan omedelbart. \
-\- På vårt hotell finns det en huvudnyckel som kan öppna alla gästernas dörrar; den används av städerskan och ibland elektriker och andra hantverkare.
+\- På vårt hotell finns det en huvudnyckel som kan öppna alla gästernas dörrar och några särskilda rum med elektriska apparater; den används främst av städerskan men också elektriker och andra hantverkare ibland.
 
 Adam suckade och avslutade
 
@@ -47,12 +43,22 @@ Sarah ställde sig upp och lämnade rummet medans Adam satt kvar och granskade s
 \- Inspektör Adam, jag ställer frågorna i detta förhör, och min första är kring vad du gjorde igår kväll. \
 \- Jag? Oj då, igår arbetade jag helt enkelt. Rätt sent tills klockan tio, då... \
 \- Då du hittade kroppen? Konfirmerade Adam vilket Ben nickade till, vilket efter Adam ställde frågan: \
-\- Och jag antar att dina medarbetare kan bevisa detta? \
-\- Medarbetare? Nej då, jag arbetar faktiskt ensam... Sagde Ben innan Adams nu förvirrade blick fick honom och tillägga. \
-\- Min fru skulle vanligtvis haft varit mitt vittne, fast jag tror hotellreceptionisten såg mig. \
+\- Jag antar då att du också har nyckel till Pearls och ditt hotellrum? \
+\- Vanligen ja, men den kvällen så tappade jag faktiskt bort nyckeln, lite klantigt men receptionisten gav mig en ny nyckel, du kan nog fråga henne om det.
 \- Sarah? Frågade Adam \
-\- Nej, det var någon annan på hotellet.
+\- Nej, det var någon annan på hotellet. \
+\- Jahopp, jag tror det räcker för nu. Jag tackar för din tid _Ben_, om du behövs så kommer du ringas åter. \
+\- Redan nu? Frågade Ben förvånad, men efter Adam nickade så lämnade han.
 
-<!--I don't really like the suspects being interviewed in a police station, it feels meh but it's easist to construct-->
+Nästa misstänkt på gång var _Jane Turney_, städerskan på hotellet som också arbetade vid timmen av brottet.
 
-<!-- Max 2.5 A4 pages, but luckily I can cram in some more space with 11pt text and tabbed paragraph breaks -->
+\- Inspektör Adam, sagde Adam medans Jane satt sig ner. \
+\- Kan du berätta för mig vad du gjorde igår? Fortsatt han snabbt efter.
+\- Jag arbetade som vanligt, det var rätt kul för ingen ville ha städade rum. Någonstans kring klockan fyra till sju. \
+\- Kände du Pearl?
+\- Pearl? Låter inte som någon jag känner igen.
+\- Hotellsreceptionisten nämnde att du har tillgång till hotellets huvudnyckel, stämmer det?
+\- Ja, men det är bara för att kunna städa på gästernas rum, det är något jag gjort över fem år, så jag skulle hoppas att det inte finns några konstigheter med det.
+\- Jag tror jag har allting jag behöver, jag tackar för din tid, sa Adam, till vilket Jane gick utan några fler ord.
+
+Efter att blivit lämnad i fred så var det omedelbart tydligt vem som hade gjort brottet. Adam stängde sitt anteckningsblock och tog fram sin mobil för att ringa en av poliserna...
