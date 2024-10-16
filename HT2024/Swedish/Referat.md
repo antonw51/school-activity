@@ -9,3 +9,7 @@ Arpi (2012) nämner huvudtagligen _My_, en arbetare på ett bemmaningsföretag. 
 Enligt arbettidslag förbjuds arbetsgivare att sätta morgonspass på arbetare som arbetat kvällspass dagen innan berättar Arpi (2012); men enligt My så fick arbetare på vissa företag arbeta kvälls- och nästa dags morgonpass ändå.
 
 Mys psykiska hälsa försämrades av saknande arbets tillfälle, då panik kring om pengar skulle komma in kom igång. Arpi (2012) stödjer också på att My arbetade utan anställningsavtall, d.v.s., tydliga arbetsvilkor och garanterade timmar.
+
+Arpi (2012) inkluderar också statistik ifrån SOU vilka pekar på att bemanningsbranschen tas upp huvudligen av personer där arbetet passar livssituationen. Dessutom så överrepresenteras vissa grupper, som unga, kvinnor, m.m.
+
+Slutligen så påstår Arpi (2012) att arbetare på bemanningsföretag borde vara förberedda på ogaranterade arbetstimmar.
