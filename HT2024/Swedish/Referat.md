@@ -4,12 +4,10 @@
 
 Agnes Arpi (2012) skriver i texten _"Skitlivungas vilkor på förändrad arbetsmarknad"_ om bemanningsföretag, och personers upplevelser med "hyr[ning] ut till företag efter behov".
 
-Arpi (2012) nämner huvudtagligen _My_, en arbetare på ett bemmaningsföretag. My tog jobbet utav behov, och hennes position leder till att hon ibland får arbete och lönen som behövs, men ibland att hon inte får arbete alls.
+Arpi (2012) nämner huvudtagligen _Mys_ upplevelser i sin text. My är en arbetare på ett bemmaningsföretag som tog jobbet utav behov. Hennes position leder till att hon ibland får arbete och lönen som behövs, men ibland att hon inte får arbete alls.
 
-Enligt arbettidslag förbjuds arbetsgivare att sätta morgonspass på arbetare som arbetat kvällspass dagen innan berättar Arpi (2012); men enligt My så fick arbetare på vissa företag arbeta kvälls- och nästa dags morgonpass ändå.
+Enligt arbettidslag förbjuds arbetsgivare från att sätta morgonspass på arbetare som arbetat kvällspass dagen innan berättar Arpi (2012); men enligt honom så påstår My att arbetare på vissa företag fick arbeta kvälls- och nästa dags morgonpass ändå.
 
 Mys psykiska hälsa försämrades av saknande arbets tillfälle, då panik kring om pengar skulle komma in kom igång. Arpi (2012) stödjer också på att My arbetade utan anställningsavtall, d.v.s., tydliga arbetsvilkor och garanterade timmar.
 
-Arpi (2012) inkluderar också statistik ifrån SOU vilka pekar på att bemanningsbranschen tas upp huvudligen av personer där arbetet passar livssituationen. Dessutom så överrepresenteras vissa grupper, som unga, kvinnor, m.m.
-
-Slutligen så påstår Arpi (2012) att arbetare på bemanningsföretag borde vara förberedda på ogaranterade arbetstimmar.
+Slutligen så lyfter Arpi (2012) statistik ifrån SOU vilka pekar på att bemanningsbranschen tas upp huvudligen av personer där arbetet passar livssituationen. Dessutom så överrepresenteras vissa grupper, som unga, kvinnor, m.m. Arpi (2012) sammanfattar nämligen med att bemmaningsarbetare måste vara ytterst flexibla för att kunna klara av bemmanningsarbetet.
