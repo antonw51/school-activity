@@ -34,7 +34,8 @@ Adam höll penna och block i sina händer, men han skrev inte ner något än; k�
 
 Adam suckade och avslutade:
 
-\- En "känsla" säger du? Nåja, jag tackar för din tid idag Sarah, om du behövs åter kommer någon på stationen kontakta dig.
+\- En "känsla" säger du? Nåja,  \
+\- du kan föra hemmåt nu, någon här kommer kontakta dig åt min tjänst om jag har mer frågor och ställa.
 
 Sarah ställde sig upp och lämnade rummet medan Adam satt kvar och granskade sina anteckningar medan nästa misstänkte var på väg.
 
@@ -48,17 +49,19 @@ Sarah ställde sig upp och lämnade rummet medan Adam satt kvar och granskade si
 \- Sarah? frågade Adam \
 \- Nej, det var någon annan på hotellet. \
 \- Jahopp, jag tror det räcker för nu. Jag tackar för din tid _Ben_, om du behövs så kommer någon på stationen kontakta dig. \
-\- Redan nu? frågade Ben förvånad, men efter att Adam nickade så lämnade han rummet.
+\- Redan nu? frågade Ben förvånad, men efter att Adam nickade otåligt så lämnade han rummet.
 
-Nästa misstänkt på gång var _Jane Turney_, städerskan på hotellet som också arbetade vid timmen för brottet.
+Nästa misstänkt på listan var _Jane Turney_, städerskan på hotellet som också arbetade vid timmen för brottet.
 
 \- Inspektör Adam, sade Adam medan Jane satt sig ner. \
 \- Kan du berätta för mig vad du gjorde igår? Fortsatt han snabbt efter.
 \- Jag arbetade som vanligt, det var rätt kul för ingen ville ha städade rum. Någonstans kring klockan fyra till sju. \
-\- Kände du Pearl?
-\- Pearl? Låter inte som någon jag känner igen.
-\- Hotellsreceptionisten nämnde att du har tillgång till hotellets huvudnyckel, stämmer det?
-\- Ja, men det är bara för att kunna städa på gästernas rum, det är något jag gjort över fem år, så jag skulle hoppas att det inte finns några konstigheter med det.
+\- Kände du Pearl? \
+\- Pearl? Låter inte som någon jag känner igen. \
+\- Hotellsreceptionisten nämnde att du har tillgång till hotellets huvudnyckel, stämmer det? \
+\- Ja, men det är bara för att kunna städa på gästernas rum, det är något jag gjort över fem år, så jag skulle hoppas att det inte finns några konstigheter med det. \
+\- Minns du när senaste gången du städade på rum 1? \
+\- Det var nog rätt länge sen... Gästerna vid rum 1 brukar inte ta nytta av rumsservicen så ofta, så oftast hänger de upp "städa ej" lappen på dörren. \
 \- Jag tror jag har allting jag behöver, jag tackar för din tid, sa Adam, till vilket Jane gick utan några fler ord.
 
 Efter att blivit lämnad i fred så var det omedelbart tydligt vem som hade gjort brottet. Adam stängde sitt anteckningsblock och tog fram sin mobil för att ringa en av poliserna...
