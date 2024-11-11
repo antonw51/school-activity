@@ -32,10 +32,11 @@ Adam höll penna och block i sina händer, men han skrev inte ner något än; k�
 \- Huvudnyckel? frågade Adam nästan omedelbart. \
 \- På vårt hotell finns det en huvudnyckel som kan öppna alla gästernas dörrar och några särskilda rum med elektriska apparater; den används främst av städerskan men också elektriker och andra hantverkare ibland.
 
-Adam suckade och avslutade:
+Adam suckade och fortsatt:
 
-\- En "känsla" säger du? Nåja,  \
-\- du kan föra hemmåt nu, någon här kommer kontakta dig åt min tjänst om jag har mer frågor och ställa.
+\- En "känsla" säger du? Nåja, kände du _Pearl_? \
+\- Inte riktigt, hennes man jobbade på hottelet dock, så jag känner till hon lite. \
+\- Hmm, då tror jag att jag har allt jag behöver. Du är fri och återvända hem nu, i värsta fall kommer jag få någon och kontakta dig om du behövs igen.
 
 Sarah ställde sig upp och lämnade rummet medan Adam satt kvar och granskade sina anteckningar medan nästa misstänkte var på väg.
 
@@ -45,7 +46,7 @@ Sarah ställde sig upp och lämnade rummet medan Adam satt kvar och granskade si
 \- Jag? Oj då, igår arbetade jag helt enkelt. Rätt sent tills klockan tio, då... \
 \- Då du hittade kroppen? Konfirmerade Adam vilket Ben nickade till, vilket efter Adam ställde frågan: \
 \- Jag antar då att du också har nyckel till Pearls och ditt hotellrum? \
-\- Vanligen ja, men den kvällen så tappade jag faktiskt bort nyckeln, lite klantigt men receptionisten gav mig en ny nyckel, du kan nog fråga henne om det. \
+\- Vanligen ja, men den kvällen så var jag nog lite klantig, då jag lämnade nycklarna hemma, och städerskan låste nog in dem när hon städade på vårt rum. En av receptionisterna gav mig en ny nyckel eventuellt, du kan nog fråga henne kring det. \
 \- Sarah? frågade Adam \
 \- Nej, det var någon annan på hotellet. \
 \- Jahopp, jag tror det räcker för nu. Jag tackar för din tid _Ben_, om du behövs så kommer någon på stationen kontakta dig. \
@@ -60,7 +61,7 @@ Nästa misstänkt på listan var _Jane Turney_, städerskan på hotellet som ock
 \- Pearl? Låter inte som någon jag känner igen. \
 \- Hotellsreceptionisten nämnde att du har tillgång till hotellets huvudnyckel, stämmer det? \
 \- Ja, men det är bara för att kunna städa på gästernas rum, det är något jag gjort över fem år, så jag skulle hoppas att det inte finns några konstigheter med det. \
-\- Minns du när senaste gången du städade på rum 1? \
+\- Minns du när senaste gången du arbetade på rum 1? \
 \- Det var nog rätt länge sen... Gästerna vid rum 1 brukar inte ta nytta av rumsservicen så ofta, så oftast hänger de upp "städa ej" lappen på dörren. \
 \- Jag tror jag har allting jag behöver, jag tackar för din tid, sa Adam, till vilket Jane gick utan några fler ord.
 
