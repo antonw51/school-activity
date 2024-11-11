@@ -8,4 +8,10 @@ Around after a minute or two, he noticed the gauge on the dash showed the fuel l
 
 About 3 miles in, the bright _low fuel indicator light_ began to blink, with a soft beep to follow; coincidentally so, just as Tyler had passed a perfectly good gas station, a grave error it'd turn out as he turned in towards the highway. "No biggie" was the recurring phrase here.
 
-20 miles in, the engine had began making some real strange noises, and the veichle seemed to run out of kicks.
+20 miles in, the engine had began making some real strange noises, and the veichle seemed to run out of fumes, the engine was slowly halting. "Damn it", Tyler groaned.
+
+Luckily, the highway was relatively empty at this time of night, and shockingly, the car went on for about another half mile. Now however, Tyler was at a halt; in the middle of the road.
+
+He had officially missed his niece's birthday party by now, and while that was _disappointing_, he couldn't do much about it. After a moment of quick thinking, he got out of his veichle and started waving to bygoers; hoping to get some aid in his perdicament.
+
+"Hey!", he shouted, as a car passed-by, seemingly oblivious to his existence. "Fucker", Tyler whispered to himself as a reply, flipping the driver off.
