@@ -18,7 +18,7 @@ He had officially missed his niece's birthday party by now, and while that was _
 
 "Hey!", he shouted, as a car passed-by, seemingly oblivious to his existence. "Fucker", Tyler whispered to himself as a reply, flipping the driver off.
 
-But the driver saw, and the driver wasn't happy. That was immedietly obvious as he pulled over on the empty roads. "Shoot", Tyler equally quietly mumbled to himself.
+But the driver saw, and the driver wasn't happy. That was immedietly obvious as he pulled over on the empty roads. "Shoot", Tyler equally quietly mumbled to himself, as he quickly realized the huge error of his ways; now set in stone.
 
 Perhaps the car driver was a kind person though, just trying to help him? — At least, that's what Tyler hoped, but wishes don't always come true.
 
